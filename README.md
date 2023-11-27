@@ -1,6 +1,9 @@
 # AI TextEvo - Your Text Summarization Assistant
 
 Welcome to AI TextEvo, an advanced AI-powered text summarization tool designed to distill lengthy content into concise, coherent summaries. Using natural language processing, it analyzes and extracts the most significant information, providing users with quick and easy access to the core message of any text.
+
+![AiTextEvo](https://github.com/Pavanmanikanta98/AI-TextEvo-App/assets/120953215/4d96210a-f346-42e6-9d60-feb93940dd33)
+
 ## Overview
 
 This repo is the home of AI TextEvo, where you'll find the source code that makes the magic happen. Behind the scenes, we're using the Hugging Face API for robust text summarization.Plus, I developed it using Replit for a seamless coding experience.
