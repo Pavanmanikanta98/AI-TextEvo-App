@@ -1,11 +1,9 @@
 # AI TextEvo - Your Text Summarization Assistant
 
-Welcome to AI TextEvo, an advanced AI-powered text summarization tool designed to distill lengthy content into concise, coherent summaries. Using natural language processing, 
-it analyzes and extracts the most significant information, providing users with quick and easy access to the core message of any text.
+Welcome to AI TextEvo, an advanced AI-powered text summarization tool designed to distill lengthy content into concise, coherent summaries. Using natural language processing, it analyzes and extracts the most significant information, providing users with quick and easy access to the core message of any text.
 ## Overview
 
-This repo is the home of AI TextEvo, where you'll find the source code that makes the magic happen. Behind the scenes, we're using the Hugging Face API for robust text summarization.
-Plus, I developed it using Replit for a seamless coding experience.
+This repo is the home of AI TextEvo, where you'll find the source code that makes the magic happen. Behind the scenes, we're using the Hugging Face API for robust text summarization.Plus, I developed it using Replit for a seamless coding experience.
 
 ## Features
 
@@ -25,8 +23,7 @@ Once you're all set, it's as easy as making API requests to AI TextEvo for quick
 
 ## Postman API Student Expert Certification
 
-Exciting news! This project is proudly linked with my journey as a Postman API Student Expert. By integrating AI TextEvo with the Hugging Face API, I've aimed to create a seamless
-and powerful text summarization experience.
+Exciting news! This project is proudly linked with my journey as a Postman API Student Expert. By integrating AI TextEvo with the Hugging Face API, I've aimed to create a seamlessand powerful text summarization experience.
 
 ## Contribution
 
